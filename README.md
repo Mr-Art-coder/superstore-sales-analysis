@@ -5,6 +5,8 @@
 
 This project analyzes the **Superstore Sales Dataset**, a popular retail dataset containing detailed transactional records of customer orders. The dataset covers order details, shipping information, product categories, customer segments, and financial metrics such as sales, discount, and profit.
 
+ ![Introduction](./Graphic/sales.png)
+
 The goal of this analysis is to extract insights into:
 
 * Sales performance
