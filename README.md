@@ -1,14 +1,4 @@
 # 📊 Superstore Sales Data Analysis Report
-## Table of Contents
-- [Introduction](#introduction)
-- [Problem Statement](#problem-statement)
-- [Data Sourcing](#data-sourcing)
-- [Data Transformation](#data-transformation)
-- [Data Analysis and Visualization](#data-analysis-and-visualization)
-- [Findings](#findings)
-- [Recommendations](#recommendations)
-- [Author](#author)
-
 ---
 
 ## 📌 Introduction
