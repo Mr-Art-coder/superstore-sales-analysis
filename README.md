@@ -118,6 +118,37 @@ in
 * ⚪ **Scatter/Bubble Chart** – Discount vs Profit
 * ⏱️ **Timeline & Slicers** – Interactive filters for Year, Segment, Category
 
+### Dataset Preview  
+![Dataset](./Graphic/data%20set.png)
+
+### Power Query Transformations  
+![Power Query](./Graphic/Power%20Query.png)
+
+### Dashboard Pages  
+
+- **Homepage**  
+  ![Homepage](./Graphic/Homepage.png)
+
+- **Order Analysis**  
+  ![Order Page](./Graphic/order%20page.png)
+
+- **Quantity Analysis**  
+  ![Quantity Page](./Graphic/quantity%20page.png)
+
+- **Customer Analysis**  
+  ![Customer Page](./Graphic/customer%20page.png)
+
+- **Delivery Days**  
+  ![Delivery Days](./Graphic/delivery%20days.png)
+
+- **Sales Analysis**  
+  ![Sales Page](./Graphic/sales%20page.png)
+
+- **Profit Analysis**  
+  ![Profit Page](./Graphic/profit%20page.png)
+
+- **Discount Impact**  
+  ![Discount Page](./Graphic/discount%20page.png)
 
 ---
 
